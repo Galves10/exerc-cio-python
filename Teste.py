@@ -1,0 +1,14 @@
+primeiro_valor = int(input('Qual o primeiro valor?'))
+segundo_valor = int(input('Qual o segundo valor?'))
+soma = primeiro_valor + segundo_valor
+subtracao = primeiro_valor - segundo_valor
+multiplicacao = segundo_valor * primeiro_valor
+divisao = segundo_valor / primeiro_valor
+potencia = segundo_valor ** primeiro_valor
+resto = segundo_valor % primeiro_valor
+print('\nSoma=',soma)
+print('\nSubtração=',subtracao)
+print('\nMultiplicacao=',multiplicacao)
+print('\nDivisao=',divisao)
+print('\nPotencia=',potencia)
+print('\nResto=',resto)
